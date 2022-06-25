@@ -63,7 +63,7 @@ ul li.checked::before {
   color: white;
 }
 
-li input[type = "checkbox"]:checked ~ p {
+li input[type = "checkbox"]:checked ~ p  {
   text-decoration: line-through;
 }
   
